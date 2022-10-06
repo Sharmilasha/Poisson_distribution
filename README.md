@@ -29,6 +29,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 
 # Program :
+~~~
 import numpy as np
 import math
 import scipy.stats
@@ -68,3 +69,4 @@ else:
 
 # Results and Output : 
  
+poisson distribution for the arrival of objects per minute from the feeder is fitted successfully.
